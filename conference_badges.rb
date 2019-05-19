@@ -6,7 +6,7 @@ end
 
 
 def batch_badge_creator(array)
-    array == "Johnny"
+    array =
 end
 
   def assign_rooms(array)
