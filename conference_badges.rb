@@ -1,5 +1,5 @@
-def badge_maker(array)
-   badge_maker = name
+def badge_maker
+   
 end
 
 
@@ -14,6 +14,7 @@ def batch_badge_creator(array)
 end 
 
   def printer(array) 
-   array = batch_badge_creator.each 
+  batch_badge_creator.each do
+    
     assign_rooms.each
  end
