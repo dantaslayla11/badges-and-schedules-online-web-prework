@@ -5,8 +5,8 @@ end
 
 
 
-def batch_badge_creator(attendees)
-    array = ()
+def batch_badge_creator(array)
+    array = (atendee)
   
 end
 
