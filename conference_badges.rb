@@ -1,4 +1,4 @@
-def badge_maker(name)
+def badge_maker(badges)
  badge_maker == name
 end 
 
