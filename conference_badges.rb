@@ -1,6 +1,5 @@
 def badge_maker(badges)
- badge_maker == name
-end 
+  
 
 
 
@@ -15,5 +14,6 @@ end
     array = (room_assignments)
 end 
 
-  
+  def printer 
+    
  
