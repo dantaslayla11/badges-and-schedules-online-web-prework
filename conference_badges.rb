@@ -21,4 +21,3 @@ end
     assign_rooms(array).each do 
       |x|
       puts |x|
- 
