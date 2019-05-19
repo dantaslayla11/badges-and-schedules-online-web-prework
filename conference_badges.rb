@@ -6,8 +6,8 @@ end
 
 
 def batch_badge_creator(array)
-    array =
-end
+    attendees = badges 
+    end
 
   def assign_rooms(array)
     array = (room_assignments)
