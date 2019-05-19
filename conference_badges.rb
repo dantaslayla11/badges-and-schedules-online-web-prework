@@ -6,8 +6,7 @@ end
 
 
 def batch_badge_creator(array)
-    array = (atendee)
-  
+    array = (attendees)
 end
 
   def assign_rooms(array)
@@ -15,6 +14,6 @@ end
 end 
 
   def printer(array) 
-    batch_badge_creator.each 
+   array = batch_badge_creator.each 
     assign_rooms.each
  end
