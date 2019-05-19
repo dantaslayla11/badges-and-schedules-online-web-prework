@@ -1,5 +1,5 @@
 def badge_maker(array)
-  name == "Arel"
+  array == badges
 end
 
 
