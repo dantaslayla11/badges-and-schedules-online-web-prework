@@ -1,12 +1,12 @@
 def badge_maker(array)
-  
+  array = (badges)
 end
 
 
 
 
 def batch_badge_creator(array)
-    array = (attendees)
+    array = ()
 end
 
   def assign_rooms(array)
