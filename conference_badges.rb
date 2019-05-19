@@ -1,5 +1,5 @@
 def badge_maker(name)
- name == badges
+ 
 end 
 
 
