@@ -1,4 +1,5 @@
-def conference_badges()
+def conference_badges(badge_maker)
+  puts (name)
 
 
 
