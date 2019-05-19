@@ -1,6 +1,6 @@
-def badge_maker(badges)
-  
-
+def badge_maker(array)
+  badge_maker == "Arel"
+end
 
 
 
@@ -14,7 +14,7 @@ end
     array = (room_assignments)
 end 
 
-  def printer 
+  def printer(array) 
     batch_badge_creator.each 
     assign_rooms.each
  end
