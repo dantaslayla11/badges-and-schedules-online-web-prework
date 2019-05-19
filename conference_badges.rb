@@ -1,3 +1,8 @@
+def 
+
+
+
+
 
 def batch_badge_creator(attendees)
     array = (badges)
